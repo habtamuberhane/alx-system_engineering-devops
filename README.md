@@ -1,1 +1,1 @@
-where am i
+current user to the user betty
