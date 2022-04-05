@@ -1,2 +1,2 @@
 #!/bin/bash
-id -un="whoami" | echo "hello user"
+echo "hello $USER"
